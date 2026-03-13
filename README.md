@@ -17,7 +17,7 @@
 
 **![Variabilidad de Temperatura por Mes (2015-2023)](img/boxplot_temp_por_mes.png)**
 
-**![Variabilidad de Temperatura por Año](img/evolucion_temporal_pbpst.png)**
+**![Variabilidad de Temperatura por Año](img/boxplot_temp_por_año.png)**
 
 **![Evolución Anual del Temperatura Promedio (2015-2023)](img/evolucion_temporal_temp.png)**
 
