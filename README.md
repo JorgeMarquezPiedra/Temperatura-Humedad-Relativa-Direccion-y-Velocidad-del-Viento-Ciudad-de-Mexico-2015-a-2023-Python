@@ -11,7 +11,7 @@
 
 **![Velocidad Promedio del Viento por Dirección Cardinal (2015-2023)](img/rosa_vientos.png)**
 
-**![Humedad Relativa Promedio por Año y Mes (2010-2025)](heatmap_humedad_año_mes.png)**
+**![Humedad Relativa Promedio por Año y Mes (2010-2025)](img/heatmap_humedad_año_mes.png)**
 
 **![Temperatura Promedio por Año y Mes (2010-2025)](img/heatmap_temp_año_mes.png)**
 
