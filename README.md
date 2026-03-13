@@ -1,0 +1,2 @@
+# Temperatura-Humedad-Relativa-Direccion-y-Velocidad-del-Viento-Ciudad-de-Mexico-2015-a-2023-Python
+Análisis exploratorio de datos (EDA) de condiciones atmosféricas (Temperatura, Humedad Relativa, Dirección y Velocidad del Viento). Utilizando Python y datos de la Red de Meteorología y Radiación Solar (REDMET), se analizaron los registros en la Ciudad de México del año 2015 a 2023 para identificar patrones estacionales y su evolución temporal.
